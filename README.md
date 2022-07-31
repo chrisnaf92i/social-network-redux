@@ -1,6 +1,8 @@
 # Création d'un réseau social 
 
-Ce Projet à été créer vis à React JS et Redux JS
+Ce Projet est un réseau social créer en solo avec comme stack technique :
+- React JS
+- Redux JS
 
 ## Les Objectif du projets :
 
